@@ -7,10 +7,7 @@
 <!--<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="65" height="65" align=left>-->
 <br/><br/><br/><br/><br/>
 <div>
-  <p align=center>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=farkon00&theme=jolly&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-  </p>
-</div>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=yaser25&theme=radical&count_private=true&show_icons=true" align=right>
 
