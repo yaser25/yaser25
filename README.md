@@ -1,5 +1,6 @@
 ## Hi Im Yaser Tavakoli 👋
 I'm a Python developer, certified in Python from Harvard University, and I love coding
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?yaser25=yousefvafaei&show_icons=true&theme=radical)
 
 <!--
 **yaser25/yaser25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
