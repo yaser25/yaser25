@@ -1,7 +1,6 @@
 ## Hi Im Yaser Tavakoli 👋
 **I'm a Python developer, certified in Python from Harvard University, and I love coding**
-![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
-(https://en.wikipedia.org/wiki/Gfycat#:~:text=On%20June%2030%2C%202023%2C%20Gfycat%20announced%20it%20would%20discontinue%20service%20on%20September%201%2C%202023.%5B21%5D%20On%20September%201%2C%202023%2C%20the%20website%20was%20taken%20down.)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaser25&show_icons=true&theme=radical)
 ### Tools
