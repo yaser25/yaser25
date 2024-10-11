@@ -4,9 +4,10 @@
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
-
+### 📫 How to reach me
 <div display="flex">
-  <a href="https://www.linkedin.com/in/codewithbernard/">
+  <a href="https://www.linkedin.com/in/yaser-tavakoli-436229330
+/codewithbernard/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
