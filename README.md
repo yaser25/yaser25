@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi Im Yaser Tavakoli 👋
+I'm a Python developer, certified in Python from Harvard University, and I love coding
 
 <!--
 **yaser25/yaser25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
