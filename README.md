@@ -1,15 +1,21 @@
 ## Hi Im Yaser Tavakoli 👋
 ### 🐍Junior Python Developer🐍
-**I'm a Python developer, certified in Python from Harvard University, and I love coding**
+**🚀 Hi, i'm Yaser tavakoli. I love programming, and you might catch me  contributing to open source or making a new project.
+I'm a Python developer, certified in Python from Harvard University, and I love coding**
+
+
 - 🔭 I’m currently working on cont programming language
 - - My skills :
 <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="65" height="65" align=left>
 <!--<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="65" height="65" align=left>-->
 <br/><br/><br/><br/><br/>
 <div>
+  <p align=center>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=yaser25&theme=jolly&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  </p>
+</div>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=yaser25&theme=radical&count_private=true&show_icons=true" align=right>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaser25&show_icons=true&theme=radical)
