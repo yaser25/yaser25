@@ -1,18 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Im+Yaser+Tavakoli+;I+am+Python+developer+and+programmer;Training+to+get+better+at+python)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Yaser Tavakoli</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">Passionate Python developer from Iran.</h3>
 
 ### 🐍Junior Python Developer🐍
-**🚀 Hi, i'm Yaser tavakoli. I love programming, and you might catch me  contributing to open source or making a new project.
-I'm a Python developer, certified in Python from Harvard University, and I love coding**
+**🚀 Hi, i'm Yaser tavakoli. Python Developer | Automation | Linux | Open Source.Python developer passionate about automation, Linux, and building practical applications. Currently building Python projects and improving my Linux and automation skills..**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaser2591&label=Profile%20views&color=0e75b6&style=flat" alt="yaser2591" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaser2591" alt="yaser2591" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaser25" alt="yaser25" /></a> </p>
 
 
 
-- 🔭 I’m currently working on cont programming language
+- 🔭  I'm currently working on Python automation projects.
   
   - ### 📫 How to reach me
 <div display="flex">
