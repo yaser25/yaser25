@@ -5,9 +5,14 @@
 ### 🐍Junior Python Developer🐍
 **🚀 Hi, i'm Yaser tavakoli. Python Developer | Automation | Linux | Open Source.Python developer passionate about automation, Linux, and building practical applications. Currently building Python projects and improving my Linux and automation skills..**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaser2591&label=Profile%20views&color=0e75b6&style=flat" alt="yaser2591" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaser25&label=Profile%20views&color=0e75b6&style=flat" alt="yaser25" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaser25" alt="yaser25" /></a> </p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yaser25" alt="yaser25" />
+  </a>
+</p>
 
 
 
